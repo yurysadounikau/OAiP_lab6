@@ -1,0 +1,3 @@
+﻿  lab_6.(9).2.cpp
+D:\c++\lab_6.(9).2\lab_6.(9).2.cpp(6,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  lab_6.(9).2.vcxproj -> D:\c++\lab_6.(9).2\x64\Debug\lab_6.(9).2.exe
